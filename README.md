@@ -27,14 +27,12 @@ Unlike projects that hide mechanics behind massive orchestration libraries, this
 
 ### Directory Structure
 ```text
-agents-lab/
-├── agent/
-│   └── agent.py         # Main orchestration and agent loop
-├── tools/
-│   └── meal_tools.py    # Local Python functions (the agent's tools)
-├── .gitignore           # Git ignore rules for virtual envs and caches
-└── requirements.txt     # Python package dependencies
-
+google
+├── agent.py            # Agent code (google-genai)
+├── data
+│   └── mock_pantry.py  # Available ingredients from the kitchen (mock data)
+└── tools
+    └── meal_tools.py   # Local Python functions (the agent's tools)
 ```
 
 ### How the Agent Loop Works (`agent.py`)
