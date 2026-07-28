@@ -32,7 +32,6 @@ agents-lab/
 │   └── agent.py         # Main orchestration and agent loop
 ├── tools/
 │   └── meal_tools.py    # Local Python functions (the agent's tools)
-├── .env                 # Environment variables (API keys)
 ├── .gitignore           # Git ignore rules for virtual envs and caches
 └── requirements.txt     # Python package dependencies
 
