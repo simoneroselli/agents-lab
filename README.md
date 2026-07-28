@@ -77,7 +77,7 @@ export GEMINI_API_KEY="your_actual_api_key_here"
 Navigate to your agent directory and execute the script:
 
 ```bash
-cd agent
+cd google
 python3 agent.py
 
 ```
