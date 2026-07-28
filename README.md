@@ -81,7 +81,3 @@ cd google
 python3 agent.py
 
 ```
-
-```
-
-```
