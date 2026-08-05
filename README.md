@@ -1,4 +1,5 @@
 # 🤖 Gemini Agentic Lab: Pilot Implementation
+## Suitable Meal Agent
 
 A lightweight, zero-framework Python implementation demonstrating the core mechanics of an **AI Agent Loop** using the official Google Genai SDK (`google-genai`) and Gemini.
 
